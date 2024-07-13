@@ -1,0 +1,1 @@
+dic = {"vishesh_deep":"vishesh@23","sonali_M":"sonali@12","piyush_C":"piyush@12","harshal_C":"harshal@12","raj_khushal":"raj@2005"}
